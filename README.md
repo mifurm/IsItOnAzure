@@ -1,0 +1,2 @@
+# IsItOnAzure
+isitonazure.com
